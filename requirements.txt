@@ -1,0 +1,7 @@
+transformers
+selenium
+webdriver-manager
+Pillow
+pytesseract
+scikit-learn
+python-dotenv

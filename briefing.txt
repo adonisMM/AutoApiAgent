@@ -1,0 +1,150 @@
+🚀 Briefing da Tarefa Personalizada
+
+Este briefing foi criado para ajudar você a descrever sua ideia de forma clara e objetiva, mesmo que você **não tenha experiência com programação**.
+
+⚠️ Para cada pergunta, descreva o que deseja da forma mais clara possível. Quanto mais detalhes você fornecer, melhor será o resultado final.
+
+---
+
+### **1️⃣ Descrição da Tarefa**
+➡️ Explique claramente o que você precisa. Imagine que está explicando para alguém que nunca ouviu falar de programação.
+
+**Exemplo:**  
+- Quero um programa que colete automaticamente os dados de clientes em um formulário do Google e envie para um arquivo do Excel.  
+- Preciso de um sistema que busque notícias sobre tecnologia e me envie por e-mail.  
+- Desejo automatizar o envio de mensagens de aniversário para meus clientes via WhatsApp.
+
+**➡️ Campo para preenchimento:**  
+**1️⃣** ___________________________________________
+
+---
+
+### **2️⃣ Objetivo Final / Resultado Esperado**
+➡️ O que você espera que esse projeto faça no final?
+
+**Exemplo:**  
+- Receber uma planilha com os dados já organizados.  
+- Receber um e-mail com as últimas notícias.  
+- Que o sistema envie mensagens de forma automática.
+
+**➡️ Campo para preenchimento:**  
+**2️⃣** ___________________________________________
+
+---
+
+### **3️⃣ Entradas (Input) que você fornecerá**
+➡️ Liste quais dados você fornecerá ao programa para que ele funcione corretamente.
+
+**Exemplo:**  
+- Uma lista de clientes com nome, telefone e data de aniversário.  
+- Um link para o formulário do Google.  
+- Uma palavra-chave para buscar notícias.
+
+**➡️ Campo para preenchimento:**  
+**3️⃣** (Gerado pelo Sistema com base na sua descrição)
+
+---
+
+### **4️⃣ Saídas (Output) que você espera**
+➡️ O que você quer que o programa gere no final?
+
+**Exemplo:**  
+- Uma planilha com todas as informações.  
+- Uma mensagem enviada via WhatsApp.  
+- Um arquivo `.txt` com uma lista de notícias.
+
+**➡️ Campo para preenchimento:**  
+**4️⃣** (Gerado pelo Sistema com base na sua descrição)
+
+---
+
+### **5️⃣ Recursos Necessários**
+➡️ Liste as ferramentas ou serviços que você acha que serão úteis para este projeto. Se não souber, deixe este campo em branco.
+
+**Exemplo:**  
+- Planilhas do Google  
+- WhatsApp Web  
+- Gmail  
+- APIs de notícias
+
+**➡️ Campo para preenchimento:**  
+**5️⃣** (Gerado pelo Sistema com base na sua descrição)
+
+---
+
+### **6️⃣ Limitações e Restrições**
+➡️ O sistema irá sugerir custos e avisar sobre possíveis restrições automaticamente.
+
+**Exemplos que podem ser sugeridos pelo sistema:**  
+- Evitar plataformas pagas.  
+- Evitar conteúdo sensível ou político.  
+- Restringir o funcionamento apenas durante o horário comercial.
+
+**➡️ Campo para preenchimento:**  
+**6️⃣** (Gerado pelo Sistema com base na sua descrição)
+
+---
+
+### **7️⃣ Tempo Estimado para Conclusão**
+➡️ O sistema irá calcular automaticamente o tempo previsto com base na complexidade da tarefa.
+
+**Exemplo de mensagens automáticas:**  
+- Essa tarefa pode levar cerca de **1 hora** para ser concluída.  
+- Essa tarefa pode levar até **24 horas** para ser finalizada.  
+- Essa tarefa exige mais tempo e pode demorar alguns dias.
+
+**➡️ Campo para preenchimento:**  
+**7️⃣** (Gerado pelo Sistema com base na sua descrição)
+
+---
+
+### **8️⃣ Passos Manuais que você quer automatizar**
+➡️ Liste as ações manuais que você faz hoje e deseja que o sistema faça automaticamente.
+
+**Exemplo:**  
+- Eu copio e colo manualmente os dados do Google para uma planilha.  
+- Eu envio mensagens de aniversário todos os dias e gostaria que isso fosse automático.  
+- Todos os dias eu busco notícias e gostaria que elas fossem enviadas automaticamente.
+
+**➡️ Campo para preenchimento:**  
+**8️⃣** ___________________________________________
+
+---
+
+### **9️⃣ Outras Observações**
+➡️ Inclua qualquer detalhe adicional que ache importante mencionar.
+
+**Exemplo:**  
+- Preciso que o programa funcione mesmo se a internet estiver lenta.  
+- O programa precisa gerar um alerta caso algo dê errado.  
+- Quero que tudo fique salvo no meu Google Drive.
+
+**➡️ Campo para preenchimento:**  
+**9️⃣** ___________________________________________
+
+---
+
+### **🔎 Exemplo Completo de Briefing Preenchido**
+---
+
+**1️⃣ Descrição da Tarefa:** Quero um sistema que busque automaticamente as melhores ofertas de passagens aéreas em sites de viagens e me envie um alerta por e-mail.
+
+**2️⃣ Objetivo Final:** Receber um e-mail diário com as melhores ofertas disponíveis.
+
+**3️⃣ Entradas:** Destino desejado e período da viagem.
+
+**4️⃣ Saídas:** E-mail com a lista das melhores passagens encontradas.
+
+**5️⃣ Recursos Sugeridos:** Utilizar Google Flights ou outros sites de busca de passagens.
+
+**6️⃣ Limitações:** Não usar plataformas pagas.
+
+**7️⃣ Tempo Estimado para Conclusão:** Aproximadamente 3 horas.
+
+**8️⃣ Passos Manuais que quero automatizar:** Hoje faço essa pesquisa manualmente e gostaria que isso fosse automático.
+
+**9️⃣ Outras Observações:** Que o e-mail tenha um link direto para as ofertas encontradas.
+
+---
+
+✅ Preencha o máximo de detalhes possível para que seu projeto tenha o melhor resultado! 🚀
